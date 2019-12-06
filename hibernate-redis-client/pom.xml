@@ -37,6 +37,13 @@
       <artifactId>redisson</artifactId>
     </dependency>
 
+    <!-- Lattuce -->
+    <dependency>
+      <groupId>io.lettuce</groupId>
+      <artifactId>lettuce-core</artifactId>
+      <optional>true</optional>
+    </dependency>
+
     <dependency>
       <groupId>de.ruedigermoeller</groupId>
       <artifactId>fst</artifactId>
